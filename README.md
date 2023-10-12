@@ -1,7 +1,9 @@
 <h1 align="center">Hola 👋, Soy Samuel Herrera Jaraba</h1>
 <h3 align="center">FullStack Developer</h3>
 
-- 🌱 I’m currently learning **JavaScript, Python, React, Flask Sql, linux,**
+- 🌱 I’m currently learning **linux**
+  
+- ❓ You can ask me about **JavaScript, Python, React, Flask Sql**
 
 - 📫 How to reach me **futbol.ingeniero@gmail.com**
 
