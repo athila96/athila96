@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Samuel Herrera Jaraba</h1>
 <h3 align="center">FullStack Developer</h3>
 
-- 🌱 I’m currently learning **linux**
+- 🌱 I’m currently learning **linux, Docker** 
   
 - ❓ You can ask me about **JavaScript, Python, React, Flask Sql**
 
@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samuel-herrera-jaraba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-herrera-jaraba/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/s0ka06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/s0ka06" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/samuelhj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/samuelhj" height="30" width="40" /></a>
+<a href="https://dribbble.com/s0ka06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/s0ka06" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users//samuelhj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/samuelhj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
